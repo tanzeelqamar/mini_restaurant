@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat:wght@400..700&display=swap');
+
+.caveat{
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  
+.cinzel{
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+.navbar{
+    background-color: #561C24;
+font-family: "Caveat", serif;
+width:1350px ;
+height: 60px;
+word-spacing: 15px;
+text-align: center;
+margin-top: -8px;
+}
+a{
+    color: #E8D8C4;
+    text-decoration: none;
+    font-size: x-large;
+font-weight: bold;
+padding-right: 50px;
+margin: auto;
+line-height: 50px;
+  height: 50px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+.hero{
+
+    background-color: #E8D8C4;
+    width: 1350px;
+    height: 340px;
+    margin: -10px;
+    padding-top: 50px;
+}
+#title{
+
+    color: #561C24;
+    text-align: left;
+    font-family:"Cinzel", serif ;
+    font-size: 150px;
+    line-height: 0px;
+    height: 50px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    height: 0px;
+    text-shadow: 2px 2px 8px #561C24;
+}
+#t2{
+   
+    color: #561C24;
+    text-align: left;
+    font-family:"Cinzel", serif ;
+    font-size: 90px;
+    line-height: 0px;
+    height: 50px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    height: 0px;
+    text-shadow: 2px 2px 8px #561C24;
+}
+#t3{
+    color: #561C24;
+    text-align: left;
+    font-family:"Cinzel", serif ;
+    font-size: 100px;
+    line-height: 0px;
+    height: 50px;
+
+}
+#image{
+    display: inline;
+    margin-left: 600px;
+    margin-right: 0px;
+    margin-top: -311px;
+    width: 750px;
+    height: 390px;
+
+}
+.box1{
+    background-color: #561C24;
+    width:1350px ;
+height: 60px;
+margin-top: -54px;
+}
+#head1{
+    font-family: "Cinzel", serif;
+    font-size: 60px;
+    text-align: center;
+    color: #E8D8C4;
+    text-shadow: 2px 2px 5px #E8D8C4;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+.menu{
+    padding-left: 71px;
+}
+div.gallery{
+    margin: 8px;
+    border: 1px solid #E8D8C4;
+    float: left;
+    width: 380px;
+}
+div.gallery img {
+    width: 100%;
+    height: auto;
+    float: left;
+  }
+  div.dd{
+    font-family: "Cinzel", serif;
+    font-size: 35px;
+    /* padding-left: 15px; */
+    word-spacing: 80px;
+  }
+  button{
+    background-color: #561C24;
+    color: #E8D8C4;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 2%;
+    border: #E8D8C4;
+    padding: 14px 40px;
+    width: 380px;
+  }
+  button:hover{
+    background-color: #4d3639; 
+  color: white;
+  }
+  #nihari{
+    width: 380px;
+  }
+  #fries{
+    height: 252px;
+  }
+  #cappucino{
+    height: 252px;
+  }
+  #madagascar{
+    height: 257px;
+  }
+  #juice{
+    height: 257px;
+  }
+  #pasta{
+    height: 257px;
+  }
+  #pizza{
+    height: 257px;
+  }
+  #roll{
+    height: 257px;
+  }
+  #cookies{
+    height: 257px;
+  }
+  #tea{
+    height: 257px;
+  }
+  #f1{
+    display: grid;
+    background-color: #4d3639;
+    font-family: "Cinzel", serif;
+  padding: 140px;
+  line-height: 240px;
+  }
+  p{
+    text-indent: 10px;
+    margin-top: -238px;
+    background-color: #4d3639;
+    color: #E8D8C4;
+  }
+  #p1{
+    word-spacing: 100px;
+  }
+  #f2{
+    display: grid;
+    background-color: #4d3639;
+    font-family: "Cinzel", serif;
+    padding: 140px;
+    line-height: 240px;
+  }
+  .footer{
+    background-color: #4d3639;
+    color: #E8D8C4;
+  }
